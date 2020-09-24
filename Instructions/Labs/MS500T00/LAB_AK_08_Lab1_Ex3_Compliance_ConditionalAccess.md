@@ -89,7 +89,7 @@ When devices are non-compliant, they should not be able to access their e-mail. 
 
 3.  Verify that you receive the message **"You can't get there from here"** or similar warning message.
 
-4.  Select **More details**. You should see more information about why you are blocked. **Note:** This is because LON-CL1 is not joined to Azure AD and not managed by Intune, so not marked as compliant.
+4.  Select **More details**. You should see more information about why you are blocked. **Note:** This is because LON-CL2 is not joined to Azure AD and not managed by Intune, so not marked as compliant.
 
 5.  **Close** the browser window.
 
